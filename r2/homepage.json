@@ -1,0 +1,29 @@
+{
+"data": [
+    {
+      "id": 1,
+      "name": "Dessert Recipes",
+      "image": "http://shawnnigel.github.io/img/cool-guy.png"
+    },
+    {
+      "id": 2,
+      "name": "Vegetarian Recipes",
+      "image": "http://shawnnigel.github.io/img/cool-guy.png"
+    },
+    {
+      "id": 3,
+      "name": "Breakfast  Recipes",
+      "image": "http://shawnnigel.github.io/img/cool-guy.png"
+    },
+    {
+      "id": 4,
+      "name": "Main Dish Recipes",
+      "image": "http://shawnnigel.github.io/img/cool-guy.png"
+    },
+    {
+      "id": 5,
+      "name": "Healthy Recipes",
+      "image": "http://shawnnigel.github.io/img/cool-guy.png"
+    }
+  ]
+}
